@@ -21,21 +21,14 @@ The app is built using Streamlit and deployed on Streamlit Cloud for easy access
 2. Connect your GitHub repo to [Streamlit Cloud](https://streamlit.io/cloud).
 3. The app will automatically deploy and be available live.
 
----
-
 Made for demonstration of practical AI model deployment!
 
 ---
 
 ## Developer
 
-#### Ezekiel BALOGUN
-* _Data Scientist / Data Analyst
-* _AI / Machine Learning Engineer
-* _Automation / Businesss Intelligence Expert
-
-ezekiel4true@yahoo.com
-
-(LinkedIn)[https://www.linkedin.com/in/ezekiel-balogun-39a14438]
-
-+2348062529172
+Ezekiel BALOGUN
+Data Scientist | AI/ML Engineer | Business Intelligence & Automation Expert
+📧 Email: ezekiel4true@yahoo.com
+🔗 LinkedIn: linkedin.com/in/ezekiel-balogun-39a14438
+📞 Phone: +234 806 252 9172
