@@ -1,7 +1,4 @@
-# AI-House-Price-Predictor
-An AI-Powered solution of a Linear Regression model to predict housing prices based on key features like bedrooms, bathrooms, square footage and location score within Lagos State, Nigeria. The app is built with Streamlit and easily deployable via Streamlit Cloud for real-time predictions.
-
-# Housing Price Prediction with Streamlit
+# Housing Price Prediction
 
 This repository contains a simple Linear Regression model trained to predict housing prices based on basic features:
 
@@ -28,12 +25,17 @@ The app is built using Streamlit and deployed on Streamlit Cloud for easy access
 
 Made for demonstration of practical AI model deployment!
 
+---
+
 ## Developer
 
 #### Ezekiel BALOGUN
 * _Data Scientist / Data Analyst
 * _AI / Machine Learning Engineer
 * _Automation / Businesss Intelligence Expert
+
 ezekiel4true@yahoo.com
+
 (LinkedIn)[https://www.linkedin.com/in/ezekiel-balogun-39a14438]
+
 +2348062529172
