@@ -28,7 +28,7 @@ Made for demonstration of practical AI model deployment!
 ## 📬 Developer Contact
 
 **Ezekiel BALOGUN**  
-* _Data Scientist | AI/ML Engineer | Business Intelligence & Automation Expert_  
-📧 [**Email:**](mailto:ezekiel4true@yahoo.com)  
-🔗 [**LinkedIn:**](https://www.linkedin.com/in/ezekiel-balogun-39a14438)  
+_Data Scientist | AI/ML Engineer | Business Intelligence & Automation Expert_  
+📧 [**Email**](mailto:ezekiel4true@yahoo.com)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/ezekiel-balogun-39a14438)  
 📞 **Phone:** +2348062529172
